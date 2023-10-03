@@ -1,0 +1,3 @@
+-  Hi, I’m @Guy11122
+-  I’m interested in making indie games
+-  I’m currently learning coding
